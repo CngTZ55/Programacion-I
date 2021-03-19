@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\MiPrimerPrograma1\MiPrimerPrograma1\bin\Debug\MiPrimerPrograma1.exe.config
+C:\Users\Usuario\source\repos\MiPrimerPrograma1\MiPrimerPrograma1\bin\Debug\MiPrimerPrograma1.exe
+C:\Users\Usuario\source\repos\MiPrimerPrograma1\MiPrimerPrograma1\bin\Debug\MiPrimerPrograma1.pdb
+C:\Users\Usuario\source\repos\MiPrimerPrograma1\MiPrimerPrograma1\obj\Debug\MiPrimerPrograma1.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\MiPrimerPrograma1\MiPrimerPrograma1\obj\Debug\MiPrimerPrograma1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MiPrimerPrograma1\MiPrimerPrograma1\obj\Debug\MiPrimerPrograma1.exe
+C:\Users\Usuario\source\repos\MiPrimerPrograma1\MiPrimerPrograma1\obj\Debug\MiPrimerPrograma1.pdb
