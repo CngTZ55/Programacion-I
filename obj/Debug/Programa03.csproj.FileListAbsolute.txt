@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Programa03\Programa03\bin\Debug\Programa03.exe.config
+C:\Users\Usuario\source\repos\Programa03\Programa03\bin\Debug\Programa03.exe
+C:\Users\Usuario\source\repos\Programa03\Programa03\bin\Debug\Programa03.pdb
+C:\Users\Usuario\source\repos\Programa03\Programa03\obj\Debug\Programa03.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Programa03\Programa03\obj\Debug\Programa03.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Programa03\Programa03\obj\Debug\Programa03.exe
+C:\Users\Usuario\source\repos\Programa03\Programa03\obj\Debug\Programa03.pdb
